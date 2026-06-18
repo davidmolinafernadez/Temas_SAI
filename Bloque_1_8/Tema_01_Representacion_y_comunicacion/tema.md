@@ -2,7 +2,7 @@
 
 ## Índice
 
-1. Introducción. 2. Información, dato y codificación. 3. Unidades de información. 4. Sistemas de numeración. 5. Representación de enteros y reales. 6. Representación de texto. 7. Representación multimedia. 8. Compresión y formatos. 9. Comunicación de la información. 10. Detección de errores y seguridad. 11. Tendencias actuales. 12. Contextualización. 13. Conclusión. 14. Esquema rápido.
+1. hola Introducción. 2. Información, dato y codificación. 3. Unidades de información. 4. Sistemas de numeración. 5. Representación de enteros y reales. 6. Representación de texto. 7. Representación multimedia. 8. Compresión y formatos. 9. Comunicación de la información. 10. Detección de errores y seguridad. 11. Tendencias actuales. 12. Contextualización. 13. Conclusión. 14. Esquema rápido.
 
 ## 1. Introducción
 
