@@ -4,10 +4,6 @@ Temas de las oposiciones de SAI en formato Markdown.
 
 ## Bloque 1 al 8
 
-Repositorio con los temas en formato Markdown del bloque 1 al 8 de Sistemas y Aplicaciones Informáticas.
-
-## Contenido
-
 - [Tema 1. Representación y comunicación de la información](Bloque_1_8/Tema_01_Representacion_y_comunicacion/tema.html)
 - [Tema 2. Elementos funcionales de un ordenador digital](Bloque_1_8/Tema_02_Elementos_funcionales/tema.html)
 - [Tema 3. Componentes y estructura de la CPU](Bloque_1_8/Tema_03_Componentes_CPU/tema.html)
@@ -17,8 +13,4 @@ Repositorio con los temas en formato Markdown del bloque 1 al 8 de Sistemas y Ap
 - [Tema 7. Dispositivos periféricos](Bloque_1_8/Tema_07_Perifericos/tema.html)
 - [Tema 8. Hardware comercial](Bloque_1_8/Tema_08_Hardware_comercial/tema.html)
 
-Cada carpeta contiene el archivo `tema.md` y, cuando corresponde, la carpeta de imágenes usada por el Markdown.
-
-## Nota
-
-Este repositorio está preparado para almacenar los temas en texto y recursos visuales ligeros. Se excluyen audios, PDFs, DOCX y archivos temporales.
+Cada tema se abre como una página independiente.
