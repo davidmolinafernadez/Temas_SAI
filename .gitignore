@@ -1,0 +1,18 @@
+# Exportaciones pesadas o derivadas
+*.pdf
+*.docx
+*.html
+*.wav
+*.mp3
+*.m4a
+
+# Temporales
+_fragmentos/
+audio_test/
+temp_audio_wav/
+node_modules/
+.npm-cache/
+
+# Sistema
+Thumbs.db
+desktop.ini
